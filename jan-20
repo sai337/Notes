@@ -13,3 +13,4 @@ cloudfront
 global services
 iam role - policies
 interface & gateway endpoints
+s3 static website hosting
