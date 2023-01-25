@@ -1,16 +1,23 @@
+Networking:
 
 networking protocals
 eni
+interface & gateway endpoints
 
+IAM:
 create one iam user - get the accesskey and secret key
 
+Linux:
 30 linux commads
 
 amazlinx - ec2-user
 centos - centos
 
+GlobalService:
 cloudfront
 global services
 iam role - policies
-interface & gateway endpoints
+
+S3:
+
 s3 static website hosting
