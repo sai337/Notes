@@ -14,3 +14,12 @@ global services
 iam role - policies
 interface & gateway endpoints
 s3 static website hosting
+
+
+{
+  aws configure:
+  AWS Access Key ID [None]: Aws-cli
+  AWS Secret Access Key [None]: Aws-cli-1234
+  Default region name [None]: us-east-1
+  Default output format [None]: yaml
+                                      }
