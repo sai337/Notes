@@ -23,4 +23,12 @@ s3 static website hosting
   Default region name [None]: us-east-1
   Default output format [None]: yaml
                                       }
+                                      
+                                      
+s3 bucket:
+
+static website hosting 
+object versioning 
+replication rule - to copy files one account s3 to other account s3
+cors - cross-origin resource sharing (CORS) 
 
